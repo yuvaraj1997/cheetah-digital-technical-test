@@ -1,0 +1,142 @@
+{
+  "recipients": [
+    {
+      "tags": [
+        "promo",
+        "Buyer",
+        "clicker",
+        "Non-clicker"
+      ],
+      "name": "Maura Hickman",
+      "id": 0
+    },
+    {
+      "tags": [
+        "shopping",
+        "clicker"
+      ],
+      "name": "Luisa Rutledge",
+      "id": 1
+    },
+    {
+      "tags": [
+        "shopping",
+        "non-clicker"
+      ],
+      "name": "Pearson Marquez",
+      "id": 2
+    },
+    {
+      "tags": [
+        "promo",
+        "Clicker",
+        "non-clicker"
+      ],
+      "name": "Fern Wise",
+      "id": 3
+    },
+    {
+      "tags": [],
+      "name": "Chaney Browning",
+      "id": 4
+    },
+    {
+      "tags": [
+        "buyer",
+        "Clicker"
+      ],
+      "name": "Elena Vega",
+      "id": 5
+    },
+    {
+      "tags": [
+        "shopping"
+      ],
+      "name": "Ruby Goff",
+      "id": 6
+    },
+    {
+      "tags": [
+        "Buyer"
+      ],
+      "name": "Patrica Juarez",
+      "id": 7
+    },
+    {
+      "tags": [
+        "promo",
+        "non-clicker"
+      ],
+      "name": "alexandra Jacobson",
+      "id": 8
+    },
+    {
+      "tags": [
+        "clicker"
+      ],
+      "name": "eloise Buckley",
+      "id": 9
+    },
+    {
+      "tags": [
+        "clicker"
+      ],
+      "name": "Diann rodgers",
+      "id": 10
+    },
+    {
+      "tags": [
+        "Promo",
+        "non-clicker"
+      ],
+      "name": "Burt Hampton",
+      "id": 11
+    },
+    {
+      "tags": [
+        "shopping",
+        "buyer",
+        "clicker"
+      ],
+      "name": "sylvia Norman",
+      "id": 12
+    },
+    {
+      "tags": [],
+      "name": "Dominguez Morrison",
+      "id": 13
+    },
+    {
+      "tags": [
+        "campaign",
+        "shopping",
+        "buyer"
+      ],
+      "name": "Jana Stevenson",
+      "id": 14
+    },
+    {
+      "tags": [],
+      "name": "Holmes Stevens",
+      "id": 15
+    },
+    {
+      "tags": [
+        "promo",
+        "shopping",
+        "buyer",
+        "clicker"
+      ],
+      "name": "Harrell Johnston",
+      "id": 16
+    },
+    {
+      "tags": [
+        "campaign",
+        "Clicker"
+      ],
+      "name": "Harrell Johnston",
+      "id": 17
+    }
+  ]
+}
