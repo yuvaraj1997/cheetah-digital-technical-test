@@ -41,8 +41,12 @@ class CheetahTechnicalTestApplicationTests extends AbstractJUnit4SpringContextTe
 
     protected List<Pair> expectedResult;
 
+    private final TagPairingService tagPairingService;
+
     @Autowired
-    TagPairingService tagPairingService;
+    public CheetahTechnicalTestApplicationTests(TagPairingService tagPairingService) {
+        this.tagPairingService = tagPairingService;
+    }
 
     @BeforeEach
     void setUp() throws IOException {
